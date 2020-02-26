@@ -24,3 +24,4 @@ yarn-error.log*
 node_modules
 node_modules
 node_modules git rm -r --cached node_modules
+npm-debug.log
