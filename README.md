@@ -8,6 +8,7 @@
 
 
 |                                       [Student 1](https://github.com/fishmanjohn)                                        |                                       [Student 2](https://github.com/mzstevens69)                                        |                                       [Student 3](https://github.com/dantebui)                                        |                                       [Student 4](https://github.com/georgeraymond98)                                        |                                       [Student 5](https://github.com/redfordch1)                                        |
+                                  [Student 6](https://github.com/anthony1120)                                        |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNJVAAVR6-3886a9ec902e-512" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNE3PAE4B-bf258b73a9be-48" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-ULWH387EU-6812c9665cb0-512" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNJVA94AC-ff89659ecee0-48" width = "200" />](https://github.com/)
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)           |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)             |
@@ -16,13 +17,12 @@
 <br>
 <br>
 
-🚫 4️⃣ Optional examples of using images with links for your tech stack, make sure to change these to fit your project
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-🚫 more info on using badges [here](https://github.com/badges/shields)
+ badges [here](https://github.com/badges/shields)
 
 ## Project Overview
 
@@ -47,30 +47,25 @@ GeoSeek aims to be a known name for creating engaging experiences through techno
 
 ##  Tech Stack
 
-### Front end built using: React/Redux, MapBox/ReactMap-Gl
+### Front end built using: 
+
+ React/Redux, MapBox/ReactMap-Gl
 
 #### _Front end framework goes here_
 
-🚫 Why did you choose this framework?
-
 -   React/Redux was used for reusable and to create a large web application that can exchange data fast and simple.
 -   Mapbox so we could gain the mapping skills and marker placements that is coupled with the ReactMap-gl.
-
-
-🚫List the rest of the front end features and libraries in the same format as the framework above.
 
 #### Front end deployed to `Heroku`
 
 #### [Back end](https://github.com/Lambda-School-Labs/geoseek-be) built using:
 
-#### 🚫 back end framework goes here: Nodejs
+####  back end framework goes here: Nodejs
 
 -    fast deployment to get product to users.
 -    point two
 -    point three
-
 -   Express, Knex, PostgreSQL for DB
-
 
 
 # APIs
@@ -83,44 +78,32 @@ JWT
 
 In order for the app to function correctly, the user must set up their own environment variables. There should be a .env file containing the following:
 
-🚫These are just examples, replace them with the specifics for your app
 
-    *  REACT_APP_apiKey - this is your Google API key, which can be generated in the Google Cloud Console
-    *  REACT_APP_authDomain - when you set up your Firebase project, this information will be in the dashboard
-    *  REACT_APP_databaseURL - in the Firebase dashboard
-    *  REACT_APP_projectID - in the Firebase dashboard
-    *  REACT_APP_storageBucket - in the Firebase dashboard
-    *  REACT_APP_messagingSenderId - in the Firebase dashboard
-    *  REACT_APP_stripe_API - this is your public Stripe API key, generated in the Stripe dashboard
-    *  REACT_APP_backendURL - optional for your local development server
-    *  REACT_APP_clientid - this is the Stripe_connect clientID, generated in Stripe_connect settings
-    *  REACT_APP_stripe_plan - this is the ID for a second Stripe subscription plan, generated under Stripe products
+    *  REACT_APP_MAPBOX_TOKEN - this is your Google API key, which can be generated in the Google Cloud Console
+    *  REACT_APP_BACKEND_URL - when you set up your Firebase project, this information will be in the dashboard
 
-# 5️⃣ Content Licenses
 
-🚫For all content - images, icons, etc, use this table to document permission of use. Remove the two placeholders and add you content to this table
+# Content Licenses
+
+
 
 | Image Filename | Source / Creator | License                                                                      |
 | -------------- | ---------------- | ---------------------------------------------------------------------------- |
 | doodles.png    | Nicole Bennett   | [Creative Commons](https://www.toptal.com/designers/subtlepatterns/doodles/) |
 | rings.svg      | Sam Herbert      | [MIT](https://github.com/SamHerbert/SVG-Loaders)                             |
 
-# 4️⃣ Testing
+# Testing
 
-🚫Document what you used for testing and why
 
-# 4️⃣ Installation Instructions
 
-🚫explain how to install the required dependencies to get this project up and running with yarn and NPM
+# Installation Instructions
+  yarn - installs dependencies
+  yarn add - install single dependencies
+  yarn start - opens a localhost on 3000
 
 ## Other Scripts
 
-🚫replace these examples with your own
-
-    * typecheck - runs the TypeScript compiler
-    * build - creates a build of the application
-    * start - starts the production server after a build is created
-    * test - runs tests in **tests** directory \* eject - copy the configuration files and dependencies into the project so you have full control over them
+ npm test - runs tests
 
 # Contributing
 
