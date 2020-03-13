@@ -1,10 +1,4 @@
-# GeoSeek
 
-1️⃣ You can find the deployed project at [Deployed Project]( geoseeklambdalabs.xyz).
-
-## Contributors
-
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
 # GeoSeek
 
  You can find the deployed project at [Deployed Project]( geoseeklambdalabs.xyz).
@@ -15,7 +9,7 @@
 
 |                                       [Student 1](https://github.com/fishmanjohn)                                        |                                       [Student 2](https://github.com/mzstevens69)                                        |                                       [Student 3](https://github.com/dantebui)                                        |                                       [Student 4](https://github.com/georgeraymond98)                                        |                                       [Student 5](https://github.com/redfordch1)                                        |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNJVAAVR6-3886a9ec902e-512" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNE3PAE4B-bf258b73a9be-48 width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-ULWH387EU-6812c9665cb0-512" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNJVA94AC-ff89659ecee0-48" width = "200" />](https://github.com/)
+|                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNJVAAVR6-3886a9ec902e-512" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNE3PAE4B-bf258b73a9be-48" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-ULWH387EU-6812c9665cb0-512" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-UNJVA94AC-ff89659ecee0-48" width = "200" />](https://github.com/)
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)           |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)             |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
