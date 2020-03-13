@@ -14,10 +14,10 @@
 
 <br>
 <br>
-|                                       [Student 1](https://github.com/)                                        |
-| :-----------------------------------------------------------------------------------------------------------: |
+|                                       [Student 1](https://github.com/)                                        
+| :-----------------------------------------------------------------------------------------------------------: 
 |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
