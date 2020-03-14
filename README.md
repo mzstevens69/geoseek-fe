@@ -15,7 +15,7 @@
 <br>
 <br>
 |                                       [Student 1](https://github.com/)                                        
-| :-----------------------------------------------------------------------------------------------------------: 
+| :-----------------------------------------------------------------------------------------------------------: |
 |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |
 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
