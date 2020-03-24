@@ -1,3 +1,15 @@
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0px;  
+  background: transparent; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: grey;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +17,145 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#30364A;
+  color:black;
+  min-width: 100%; 
+  max-height: 100%;
+  min-height: 100%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.navbar{
+  text-align: right;
+  margin-right:50px;
+  color: fuchsia;
+}
+
+.marker-btn{
+  background:none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  width:40px;
+  height: 40px;
+}
+
+.marker-btn img:active {
+ color: red;
+}
+
+.marker-btn img {
+  width: 40px;
+  height: 40px;
+}
+
+.Map {
+  padding: 0px;
+  width: 800px;
+  height: 800px;
+  margin: 0px;
+}
+
+
+.App {
+  display: flex;
+}
+
+
+
+
+/* INPUT AUTOFILL COLOR OVERRIDE */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  border: 1px solid #30364A;
+  -webkit-text-fill-color: white;
+  -webkit-box-shadow: 0 0 0px 1000px #3E4958 inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+.RegLog_Hero_Image_Container {
+ padding: 0px;
+ width: 68vw;
+ height: 100%;
+ position: relative;
+}
+
+.Hero_Text {
+  margin: 0px 0px 0px 0px;
+  color: white;
+  z-index: 2;
+  top: 40%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.Register_Hero_Image {
+  background-image: url(images/RegisterImg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center -420px;
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+  padding: 0px;
+  display: block;
+  z-index: -1;
+}
+
+.Login_Hero_Image {
+  background-image: url(images/explore-flag.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+  padding: 0 ;
+  display: block;
+}
+
+.Hero_H1 {
+ font-size: 3.4rem;
+}
+
+.Hero_P {
+  font-size: 2.5rem;
+  width: 50vw;
+ }
+
+.Register_Form_Container {
+  border: 2px solid blue;
+  width: 55vh;
+ }
+
+ #firstNameError {
+   width: 330px;
+   color: white;
+ }
+.mapboxgl-popup-content {
+  background-color: hsl(215, 17%, 29%)!important;
+  color: #f5f5f5;
+}
+
+.mapboxgl-popup-close-button {
+  display: none;
+
+}
+.viewLink {
+  color: whitesmoke;
+}
+h2 {
+  color: hsl(313, 44%, 60%);
 }
